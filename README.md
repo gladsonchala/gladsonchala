@@ -1,5 +1,5 @@
 <p align="centre">
-    <img src="https://github.com/gladsonchala/gladsonchala/blob/main/Snapchat-1359910963.jpg">
+    <img src="https://github.com/gladsonchala/gladsonchala/blob/main/Snapchat-1359910963.jpg" width="80px" height="100px">
 </p>
 <h2>
     <samp>
