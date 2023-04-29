@@ -1,9 +1,9 @@
 <p align="centre">
-    <img src="https://github.com/m4mallu/m4mallu/blob/main/img/header.png">
+    <img src="https://github.com/gladsonchala/gladsonchala/blob/main/img/header.png">
 </p>
 <h2>
     <samp>
-        Hi... <img src="https://raw.githubusercontent.com/itspriyo/itspriyo/main/src/hi.gif" width="40px" alt="👋"> I am Renjith.
+        Hi... <img src="https://raw.githubusercontent.com/itspriyo/itspriyo/main/src/hi.gif" width="40px" alt="👋"> I am Gemechis.
     </samp>
 </h2>  
 <p>
