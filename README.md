@@ -3,7 +3,9 @@
 </p>
 <h2>
     <samp>
-        Hi... <img src="https://raw.githubusercontent.com/itspriyo/itspriyo/main/src/hi.gif" width="40px" alt="👋"> I am Gemechis.
+        Hi... <img src="https://raw.githubusercontent.com/itspriyo/itspriyo/main/src/hi.gif" width="40px" alt="👋">
+					[![Typing SVG](https://readme-typing-svg.demolab.com?font=Mulish&size=30&pause=1000&color=19F73B&width=600&lines=This+is+Gemechis+Chala.;Welcome+to+my+GitHub+profile.)](https://git.io/typing-svg) 
+  
     </samp>
 </h2>  
 <p>
