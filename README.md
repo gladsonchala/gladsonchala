@@ -5,7 +5,7 @@
   
 <h2>
     <samp>
-        Hi... <img src="https://raw.githubusercontent.com/itspriyo/itspriyo/main/src/hi.gif" width="40px" alt="👋">
+        Hi... <img src="https://raw.githubusercontent.com/itspriyo/itspriyo/main/src/hi.gif" width="40px" alt="👋"> Well.
 					
     </samp>
 </h2>    
