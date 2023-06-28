@@ -4,10 +4,13 @@
 <h2>
     <samp>
         Hi... <img src="https://raw.githubusercontent.com/itspriyo/itspriyo/main/src/hi.gif" width="40px" alt="👋">
-					[![Typing SVG](https://readme-typing-svg.demolab.com?font=Mulish&size=30&pause=1000&color=19F73B&width=600&lines=This+is+Gemechis+Chala.;Welcome+to+my+GitHub+profile.)](https://git.io/typing-svg) 
-  
+					
     </samp>
 </h2>  
+
+	[![Typing SVG](https://readme-typing-svg.demolab.com?font=Mulish&size=30&pause=1000&color=19F73B&width=600&lines=This+is+Gemechis+Chala.;Welcome+to+my+GitHub+profile.)](https://git.io/typing-svg) 
+  
+
 <p>
     <samp>
     I am an Electronics Engineer, Product Designer, digital fabricator and developer. I mostly preferred to do HMI projects using embedded systems, AI bot development for web applications and embedded system designing. I'm also learning different programming languages, frameworks, front end & backend deveopment, Mobile Apps, AI and Ml, and Databases.
