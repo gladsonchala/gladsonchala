@@ -1,3 +1,5 @@
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Mulish&size=30&pause=1000&color=19F73B&width=600&lines=This+is+Gemechis+Chala.;Welcome+to+my+GitHub+profile.)](https://git.io/typing-svg) 
+  
 <p align="centre">
     <img src="https://github.com/gladsonchala/gladsonchala/blob/main/Snapchat-1359910963.jpg" width="110px" height="130px">
 </p>
