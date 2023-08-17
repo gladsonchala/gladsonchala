@@ -12,7 +12,7 @@
 
 <p>
     <samp>
-    I am an Software Developer. I mostly preferred to do HMI projects using embedded systems, AI bot development for web applications and embedded system designing. I'm also learning different programming languages, frameworks, front end & backend deveopment, Mobile Apps, AI and Ml, and Databases.
+    I am Software Developer. I mostly preferred to do Android Development and Bot development. I'm also learning different programming languages, frameworks, front end & backend deveopment, Mobile Apps, AI and Ml, and Databases.
     </samp>
 </p>
 <div>
