@@ -1,6 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Mulish&size=30&pause=1000&color=19F73B&width=600&lines=This+is+Gemechis+Chala.;Welcome+to+my+GitHub+profile.)](https://git.io/typing-svg) 
 
-![avatar](https://github.com/gladsonchala/gladsonchala/blob/main/Snapchat-1359910963.jpg#avatar) { :
+![avatar](https://github.com/gladsonchala/gladsonchala/blob/main/Snapchat-1359910963.jpg#avatar) { #avatar:
   display: block;
   margin: 0 auto;
   border-radius: 50%;
