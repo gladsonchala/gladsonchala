@@ -1,9 +1,8 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Mulish&size=30&pause=1000&color=19F73B&width=600&lines=This+is+Gemechis+Chala.;Welcome+to+my+GitHub+profile.)](https://git.io/typing-svg) 
 
-![alt text](https://github.com/gladsonchala/gladsonchala/blob/main/Snapchat-1359910963.jpg){: style="border-radius: 50%; display: block; margin: 0 auto; max-width: 50%;"}
-<p align="centre">
-    
-</p>
+<div style="display: flex; justify-content: center;">
+  <img src="https://github.com/gladsonchala/gladsonchala/blob/main/Snapchat-1359910963.jpg" style="border-radius: 50%; max-width: 50%;">
+</div>
 
 <h2>
     <samp>
