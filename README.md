@@ -6,7 +6,7 @@
 
 <p align="center">
   <a href="https://easybase.io">
-    <img src="https://github.com/gladsonchala/gladsonchala/blob/main/Snapchat-1359910963.jpg" alt="easybase logo black" width="80" height="80">
+    <img src="https://github.com/gladsonchala/gladsonchala/blob/main/Snapchat-1359910963.jpg" alt="easybase logo black" width="80" height="80" border-radius="50">
   </a>
 </p>
 
