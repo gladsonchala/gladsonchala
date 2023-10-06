@@ -2,7 +2,7 @@
 
 <p align="center" style="border-radius: 50%; max-width: 50%;">
   <a href="https://github.com/gladsonchala">
-    <img src="https://github.com/gladsonchala/gladsonchala/blob/main/Snapchat-1359910963.jpg" alt="me" width="100" height="100">
+    <img src="https://github.com/gladsonchala/gladsonchala/blob/main/Snapchat-1359910963.jpg" alt="me" width="250" height="250">
   </a>
 </p>
 
