@@ -4,6 +4,13 @@
   <img src="https://github.com/gladsonchala/gladsonchala/blob/main/Snapchat-1359910963.jpg" style="border-radius: 50%; max-width: 50%;">
 </div>
 
+<p align="center">
+  <a href="https://easybase.io">
+    <img src="https://github.com/gladsonchala/gladsonchala/blob/main/Snapchat-1359910963.jpg" alt="easybase logo black" width="80" height="80">
+  </a>
+</p>
+
+
 <h2>
     <samp>
         Hi... <img src="https://raw.githubusercontent.com/itspriyo/itspriyo/main/src/hi.gif" width="40px" alt="👋"> Wel Come.
