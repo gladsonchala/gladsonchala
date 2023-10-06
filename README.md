@@ -5,8 +5,8 @@
 </div>
 
 <p align="center">
-  <a href="https://easybase.io">
-    <img src="https://github.com/gladsonchala/gladsonchala/blob/main/Snapchat-1359910963.jpg" alt="easybase logo black" width="80" height="80" border-radius="50">
+  <a href="https://github.com/gladsonchala">
+    <img src="https://github.com/gladsonchala/gladsonchala/blob/main/Snapchat-1359910963.jpg" alt="me" width="100" height="100" style="border-radius: 50%; max-width: 50%;">
   </a>
 </p>
 
