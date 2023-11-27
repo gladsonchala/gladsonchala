@@ -2,7 +2,7 @@
 
 <div align="center" border-radius="50%">
   <a href="https://github.com/gladsonchala">
-    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTYfFirZUfL_JpOqcgeoU9YNFtyuEkJrVp74FLKMbOvlD2tLnsPBtEvYvwhUUz34WL0l7c&usqp=CAU" alt="me" width="130" height="200">
+    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTYfFirZUfL_JpOqcgeoU9YNFtyuEkJrVp74FLKMbOvlD2tLnsPBtEvYvwhUUz34WL0l7c&usqp=CAU" alt="me" width="130" height="130">
   </a>
 </div>
 
