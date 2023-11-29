@@ -24,6 +24,19 @@
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gladsonchala&amp;layout=compact&amp;langs_count=7&amp;theme=gotham">
     </p>
 </div>
+
+
+
+<p align="center">
+<a href="https://github.com/gladsonchala"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=gladsonchala&langs_count=14&show_icons=true&locale=en&layout=compact&theme=tokyonight" width="470px"  alt="Gemechis"/></a>
+</p>
+<div align='center'>
+ <a href="https://github.com/gladsonchala"><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=gladsonchala&theme=tokyonight&hide_border=true"  width="470" alt="Gemechis"/></a>
+</div>
+
+
+
+</div>
 <h2>
     <samp>
         My social media
