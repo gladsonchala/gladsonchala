@@ -12,7 +12,9 @@
         Hi... <img src="https://raw.githubusercontent.com/itspriyo/itspriyo/main/src/hi.gif" width="40px" alt="👋"> Wel Come.
 		</samp>
 </h2>    
-
+---
+***
+___
 <p>
     <samp>
     I am Software Developer. I mostly preferred to do Android Development and Bot development. I'm also learning different programming languages, frameworks, front end & backend deveopment, Mobile Apps, AI and Ml, and Databases.
