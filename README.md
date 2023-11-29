@@ -12,7 +12,7 @@
         Hi... <img src="https://raw.githubusercontent.com/itspriyo/itspriyo/main/src/hi.gif" width="40px" alt="👋"> Wel Come.
 		</samp>
 </h2>    
-<hr style="border: 1px dashed #999">
+<hr style="border: 1px dashed #D3D3D3">
 <p>
     <samp>
     I am Software Developer. I mostly preferred to do Android Development and Bot development. I'm also learning different programming languages, frameworks, front end & backend deveopment, Mobile Apps, AI and Ml, and Databases.
