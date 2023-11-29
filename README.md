@@ -22,9 +22,12 @@
     <p align="center">
         <img src="https://github-readme-stats.vercel.app/api?username=gladsonchala&ampshow_icons=true&amp;theme=gotham&amp;include_all_commits=true&amp;count_private=true" width="420px">
 </div>
+</div>
+
+<p align="center"><a href="https://github.com/gladsonchala/">  <img align="center" src="https://github-readme-stats.vercel.app/api?username=gladsonchala&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130C40" width="450"/></a>  <a href="https://github.com/gladsonchala/">  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gladsonchala&theme=tokyonight&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2200AE&text_color=D3D3D3&bg_color=0,000000,130C40" width="380"/></a> <a href="https://github.com/gladsonchala">    <img align="center" src="https://github-profile-trophy.vercel.app/?username=gladsonchala&theme=tokyonight" width="820"/>  </a></p>
 
 
-
+</div>
 <p align="center">
 <a href="https://github.com/gladsonchala"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=gladsonchala&langs_count=14&show_icons=true&locale=en&layout=compact&theme=tokyonight" width="470px"  alt="Gemechis"/></a>
 </p>
