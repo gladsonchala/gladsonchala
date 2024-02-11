@@ -2,7 +2,7 @@
 
 <div align="center" border-radius="50%">
   <a href="https://github.com/gladsonchala">
-    <img src="https://scorpidev.me/images/me-hero-img.png" alt="me" width="130" height="130">
+    <img src="https://scorpidev.me/images/me-hero-img.png" alt="me" width="140" height="150">
   </a>
 </div>
 
