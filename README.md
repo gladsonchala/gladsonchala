@@ -43,7 +43,7 @@
 </h2>
 
 [![Twitter](https://img.shields.io/twitter/follow/space4renjith?label=Twitter&logo=twitter&style=for-the-badge&color=orange)](https://twitter.com/gladsonchala)
-[![Telegram](https://img.shields.io/badge/Telegram-grey?style=for-the-badge&logo=telegram)](https://t.me/gladson1)
+[![Telegram](https://img.shields.io/badge/Telegram-grey?style=for-the-badge&logo=telegram)](https://t.me/scorpidev)
 [![Gmail](https://img.shields.io/badge/Gmail-grey?style=for-the-badge&logo=Gmail)](gladsonchala@gmail.com)
 [![Blog](https://img.shields.io/badge/My_Blog-grey?style=for-the-badge&logo=Blogger)](https://scorpidev.me/)
 [![Blog](https://img.shields.io/badge/Project_updates-grey?style=for-the-badge&logo=telegram)](https://scorpidev.me)
