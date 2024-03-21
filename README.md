@@ -20,7 +20,7 @@
 </div>
 <hr style="border: 1px dashed #D3D3D3">
 
-<p align="center"><a href="https://github.com/gladsonchala/">  <img align="center" src="https://github-readme-stats.vercel.app/api?username=gladsonchala&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130C40" width="450"/></a>  <a href="https://github.com/gladsonchala/">  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gladsonchala&theme=tokyonight&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2200AE&text_color=D3D3D3&bg_color=0,000000,130C40" width="380"/></a> <a href="https://github.com/gladsonchala">    <img align="center" src="https://github-profile-trophy.vercel.app/?username=gladsonchala&theme=tokyonight" width="820"/>  </a></p>
+<p align="center"><a href="https://github.com/gladsonchala/">  <img align="center" src="https://github-readme-stats.vercel.app/api?username=gladsonchala&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130C40" width="450"/></a>  <a href="https://github.com/gladsonchala/">  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gladsonchala&theme=midnight_purple&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2200AE&text_color=D3D3D3&bg_color=0,000000,130C40" width="380"/></a> <a href="https://github.com/gladsonchala">    <img align="center" src="https://github-profile-trophy.vercel.app/?username=gladsonchala&theme=tokyonight" width="820"/>  </a></p>
 
 
 <hr style="border: 1px dashed #D3D3D3">
@@ -28,9 +28,9 @@
 <p align="center">
 <a href="https://github.com/gladsonchala"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=gladsonchala&langs_count=14&show_icons=true&locale=en&layout=compact&theme=tokyonight" width="470px"  alt="Gemechis"/></a>
 </p>
-<div align='center'>
- <a href="https://github.com/gladsonchala"><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=gladsonchala&theme=tokyonight&hide_border=true"  width="470" alt="Gemechis"/></a>
-</div>
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=gladsonchala&theme=midnight_purple)
+
 
 </div>
 
@@ -39,27 +39,23 @@
 
 
 <div align='center'>
- 
+
 ![](https://github-contributor-stats.vercel.app/api?username=gladsonchala&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
 
 </div>
-
-<!--<div align='center'>
- <a href="https://github.com/gladsonchala"><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=gladsonchala&theme=tokyonight&hide_border=true"  width="470" alt="Gemechis"/></a>
-</div>-->
-
 
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><h3 align="center">Statistics</h3>
 <div align="center">
 <a href="https://github.com/gladsonchala">
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=gladsonchala&theme=jolly" height="180em" />
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=gladsonchala&theme=jolly" height="180em" />
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=gladsonchala&theme=jolly" height="180em" />
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=gladsonchala&theme=jolly" height="180em" />
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=gladsonchala&theme=jolly" height="180em" />
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=gladsonchala&theme=midnight_purple" height="180em" />
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=gladsonchala&theme=midnight_purple" height="180em" />
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=gladsonchala&theme=midnight_purple" height="180em" />
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=gladsonchala&theme=midnight_purple" height="180em" />
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=gladsonchala&theme=midnight_purple" height="180em" />
 </div>
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><h2 align="left">⚡Activity Graph:</h2>
+
+<h2 align="left">⚡Activity Graph:</h2>
 <img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=gladsonchala&theme=default"/>
 
 
