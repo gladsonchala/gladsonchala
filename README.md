@@ -34,6 +34,8 @@
 
 </div>
 
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=syipmong&label=Profile%20views&color=0e75b6&style=flat" alt="syipmong" /> </p>
+
 
 <hr style="border: 1px dashed #D3D3D3">
 <h2>
