@@ -40,7 +40,7 @@
 
 <div align='center'>
 
-![](https://github-contributor-stats.vercel.app/api?username=gladsonchala&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
+[![Contribution Stats](https://github-contribution-stats.vercel.app/api/?username=gladsonchala)](https://github.com/gladsonchala/github-contribution-stats/)
 
 </div>
 
@@ -54,9 +54,6 @@
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=gladsonchala&theme=midnight_purple" height="180em" />
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=gladsonchala&theme=midnight_purple" height="180em" />
 </div>
-
-<h2 align="left">⚡Activity Graph:</h2>
-<img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=gladsonchala&theme=default"/>
 
 
 
@@ -100,6 +97,9 @@
 [![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white)](https://code.visualstudio.com/)
 [![Composer](https://img.shields.io/badge/Composer-885630?logo=composer&logoColor=fff)](https://getcomposer.org/)
 [![PyPI](https://img.shields.io/badge/PyPI-3775A9?logo=pypi&logoColor=fff)](https://pypi.org/)
+
+<h2 align="left">⚡Activity Graph:</h2>
+<img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=gladsonchala&theme=midnight_purple"/>
 
 
 <hr style="border: 1px dashed #D3D3D3">
