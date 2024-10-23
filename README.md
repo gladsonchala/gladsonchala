@@ -2,7 +2,7 @@
 
 <div align="center" border-radius="50%">
   <a href="https://github.com/gladsonchala">
-    <img src="https://github.com/gladsonchala/gladsonchala/blob/main/image.png" alt="me" width="140" height="150">
+    <img src="https://github.com/gladsonchala/gladsonchala/blob/main/image.png" alt="Fullstack Banner" width="100" height="100">
   </a>
 </div>
 
