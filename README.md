@@ -1,8 +1,8 @@
-![image](https://github.com/user-attachments/assets/c683ceea-9004-4001-beb2-e8bb8868f47a)[![Typing SVG](https://readme-typing-svg.demolab.com?font=Mulish&size=30&pause=1000&color=19F73B&width=600&lines=This+is+Gemechis+Chala.;Welcome+to+my+GitHub+profile.)](https://git.io/typing-svg) 
+![image](https://avatars.githubusercontent.com/u/117309484?s=0)[![Typing SVG](https://readme-typing-svg.demolab.com?font=Mulish&size=30&pause=1000&color=19F73B&width=600&lines=This+is+Gemechis+Chala.;Welcome+to+my+GitHub+profile.)](https://git.io/typing-svg) 
 
 <div align="center" border-radius="50%">
   <a href="https://github.com/gladsonchala">
-    <img src="https://avatars.githubusercontent.com/u/117309484?s=400" alt="Fullstack Banner" width="100" height="100">
+    <img src="https://github.com/gladsonchala/gladsonchala/blob/main/image.png" alt="Fullstack Banner" width="80%" height="5%">
   </a>
 </div>
 
